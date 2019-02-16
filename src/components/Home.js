@@ -42,7 +42,11 @@ class Home extends Component {
           />
           <p>Hi! I am a Software Engineer.</p>
           <p>Specializing in react and with a love for open source</p>
-          <a href="/" target="_blank">
+          <a
+            href="https://github.com/rajatvijay"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
               className={css`
                 margin-right: 10px;
@@ -52,7 +56,11 @@ class Home extends Component {
               alt="github"
             />
           </a>
-          <a href="/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/rajat-vijay"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
               src="https://res.cloudinary.com/rajatvijay/image/upload/c_fill,f_auto,w_24/v1550260234/personal-dnr/001-linkedin.svg"
               alt="linked-in"
